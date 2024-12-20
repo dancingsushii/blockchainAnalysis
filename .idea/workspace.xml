@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab81801b-2df3-4793-8230-ba59505bacb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/GeoLite2-ASN.mmdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/blockchains/algorand/geographic_distribution.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/blockchains/algorand/hosting_distribution.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/blockchains/ethereum/ethereum_crawler.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/blockchains/tezos/hosting_distribution.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/algorand/algorand_nodes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/ethereum/nebula_ethereum_nodes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/polkadot/nebula_crawl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/polkadot/nebula_polkadot_nodes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/polygon/polygon_nodes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/algorand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/bitcoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/bitcoin_cash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/cardano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/dogecoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/ethereum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/ethereum_classic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/litecoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/near.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/polkadot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/ripple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/solana.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/stellar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/blockchains/tezos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/common/geographical_distribution_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/common/plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/common/transparency_matrix_heatmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/common/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/node_counts/total_node_count_fetch_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/node_counts/total_node_count_plot_data.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dancingsushii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dancingsushii/blockchainAnalysis.git&quot;,
+    &quot;accountId&quot;: &quot;5be48e31-cb19-46c3-a1ae-b68bbcf9832d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2p5JSGroaN9r9C9NvjgsZ6k5v5t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.algorand.executor": "Run",
+    "Python.bitcoin.executor": "Run",
+    "Python.bitcoin_cash.executor": "Run",
+    "Python.cardano.executor": "Run",
+    "Python.dogecoin.executor": "Run",
+    "Python.ethereum.executor": "Run",
+    "Python.ethereum_classic.executor": "Run",
+    "Python.fetch_tezos_data.executor": "Run",
+    "Python.geographical_distribution_all.executor": "Run",
+    "Python.litecoin.executor": "Run",
+    "Python.litecoin_2api.executor": "Run",
+    "Python.near.executor": "Run",
+    "Python.plot_data (1).executor": "Run",
+    "Python.plot_data (2).executor": "Run",
+    "Python.plot_data.executor": "Run",
+    "Python.polkadot.executor": "Run",
+    "Python.polygon.executor": "Run",
+    "Python.process_data (1).executor": "Run",
+    "Python.process_data (2).executor": "Run",
+    "Python.process_data.executor": "Run",
+    "Python.ripple.executor": "Run",
+    "Python.solana.executor": "Run",
+    "Python.stellar.executor": "Run",
+    "Python.tezos.executor": "Run",
+    "Python.total_node_count_fetch_data.executor": "Run",
+    "Python.total_node_count_plot_data.executor": "Run",
+    "Python.transparency_matrix_heatmap.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/tetianayakovenko/Desktop/masterThesis/GitHubRepository/blockchainAnalysis/data/raw/ethereum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/raw/ethereum" />
+      <recent name="$PROJECT_DIR$/data/raw/polkadot" />
+      <recent name="$PROJECT_DIR$/data/raw/algorand" />
+      <recent name="$PROJECT_DIR$/data/processed/blockchains/polygon" />
+      <recent name="$PROJECT_DIR$/scripts/blockchains" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/plots" />
+      <recent name="$PROJECT_DIR$/data/raw/polygon" />
+      <recent name="$PROJECT_DIR$/data/raw" />
+      <recent name="$PROJECT_DIR$/scripts/blockchains" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.transparency_matrix_heatmap">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="blockchainAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/process_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cardano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blockchainAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/blockchains/cardano.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ethereum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blockchainAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/blockchains/ethereum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="near" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blockchainAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/blockchains/near.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ripple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blockchainAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/blockchains/ripple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transparency_matrix_heatmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blockchainAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/python/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/common/transparency_matrix_heatmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.transparency_matrix_heatmap" />
+        <item itemvalue="Python.near" />
+        <item itemvalue="Python.ethereum" />
+        <item itemvalue="Python.ripple" />
+        <item itemvalue="Python.cardano" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab81801b-2df3-4793-8230-ba59505bacb2" name="Default Changelist" comment="" />
+      <created>1732050000169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732050000169</updated>
+      <workItem from="1732053348604" duration="3048000" />
+      <workItem from="1732214043185" duration="745000" />
+      <workItem from="1732215255454" duration="1257000" />
+      <workItem from="1732449761970" duration="154000" />
+      <workItem from="1732543585910" duration="4484000" />
+      <workItem from="1733049657466" duration="199207000" />
+      <workItem from="1734562671281" duration="28197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$dogecoin.coverage" NAME="dogecoin Coverage Results" MODIFIED="1734699329389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$transparency_matrix_heatmap.coverage" NAME="transparency_matrix_heatmap Coverage Results" MODIFIED="1734718165959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$process_data__1_.coverage" NAME="process_data (1) Coverage Results" MODIFIED="1734204992621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$cardano.coverage" NAME="cardano Coverage Results" MODIFIED="1734707209717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1734203617663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$total_node_count_fetch_data.coverage" NAME="total_node_count_fetch_data Coverage Results" MODIFIED="1734649736309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$algorand.coverage" NAME="algorand Coverage Results" MODIFIED="1734705316200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$litecoin.coverage" NAME="litecoin Coverage Results" MODIFIED="1734706182572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$ripple.coverage" NAME="ripple Coverage Results" MODIFIED="1734707517570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$bitcoin_cash.coverage" NAME="bitcoin_cash Coverage Results" MODIFIED="1734697796389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$polkadot.coverage" NAME="polkadot Coverage Results" MODIFIED="1734702924877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$polygon.coverage" NAME="polygon Coverage Results" MODIFIED="1734699454635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$plot_data__2_.coverage" NAME="plot_data (2) Coverage Results" MODIFIED="1734124239611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$litecoin_2api.coverage" NAME="litecoin_2api Coverage Results" MODIFIED="1734279677525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$ethereum_classic.coverage" NAME="ethereum_classic Coverage Results" MODIFIED="1734697653421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$solana.coverage" NAME="solana Coverage Results" MODIFIED="1734616492661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$near.coverage" NAME="near Coverage Results" MODIFIED="1734707898285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$geographical_distribution_all.coverage" NAME="geographical_distribution_all Coverage Results" MODIFIED="1734619462264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$plot_data.coverage" NAME="plot_data Coverage Results" MODIFIED="1734124750968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$process_data__2_.coverage" NAME="process_data (2) Coverage Results" MODIFIED="1734124234907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$total_node_count_plot_data.coverage" NAME="total_node_count_plot_data Coverage Results" MODIFIED="1734649774278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$ethereum.coverage" NAME="ethereum Coverage Results" MODIFIED="1734707800519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$fetch_tezos_data.coverage" NAME="fetch_tezos_data Coverage Results" MODIFIED="1734032467937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$bitcoin.coverage" NAME="bitcoin Coverage Results" MODIFIED="1734697705502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$tezos.coverage" NAME="tezos Coverage Results" MODIFIED="1734697949137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$stellar.coverage" NAME="stellar Coverage Results" MODIFIED="1734697891953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/blockchainAnalysis$plot_data__1_.coverage" NAME="plot_data (1) Coverage Results" MODIFIED="1734123096321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+</project>

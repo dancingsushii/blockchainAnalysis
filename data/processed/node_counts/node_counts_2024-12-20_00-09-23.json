@@ -1,0 +1,21 @@
+{
+    "timestamp": "2024-12-20_00-09-23",
+    "data": {
+        "Algorand": 2466,
+        "Bitcoin": 19936,
+        "Bitcoin Cash": 565,
+        "Cardano": 3036,
+        "Dogecoin": 483,
+        "Ethereum": 5994,
+        "Ethereum Classic": 5455,
+        "Litecoin": 879,
+        "NEAR": 78,
+        "Polkadot": 5982,
+        "Polygon": 5001,
+        "Ripple": 21,
+        "Solana": 5327,
+        "Stellar": 196,
+        "Tezos": 2203
+    },
+    "fetch_time": "2024-12-20T00:09:23.414921"
+}

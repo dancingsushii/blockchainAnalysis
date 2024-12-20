@@ -1,0 +1,380 @@
+Category,Count,Percentage
+SS-ASH,1007,20.14
+AMAZON-AES,889,17.78
+Korea Telecom,674,13.48
+Hetzner Online GmbH,292,5.84
+COMCAST-7922,170,3.4
+AMAZON-02,125,2.5
+Contabo GmbH,92,1.84
+GOOGLE-CLOUD-PLATFORM,88,1.76
+OVHS,87,1.74
+UUNET,78,1.56
+Akamai Connected Cloud,71,1.42
+ATT-INTERNET4,62,1.24
+DIGITALOCEAN-ASN,35,0.7
+TWC-20001-PACWEST,33,0.66
+ORACLE-BMC-31898,28,0.56
+TELUS Communications,26,0.52
+Virgin Media,24,0.48
+LG DACOM,22,0.44
+netcup GmbH,21,0.42
+ROGERS-COMMUNICATIONS,20,0.4
+ASN-CXA-ALL-CCI-22773-RDC,20,0.4
+Hostinger International Limited,18,0.36
+BACOM,16,0.32
+Odido Netherlands B.V.,16,0.32
+A1 Bulgaria EAD,16,0.32
+"RETE internet, s.r.o.",15,0.3
+SHAW,15,0.3
+Sky UK Limited,15,0.3
+ISP Alliance a.s.,15,0.3
+"Alibaba US Technology Co.,",15,0.3
+Deutsche Telekom,14,0.28
+"WEDOS Internet, a.s.",14,0.28
+LG POWERCOMM,14,0.28
+INTERNET-SOLUTIONS,14,0.28
+ALLNODES,13,0.26
+CHARTER-20115,13,0.26
+LIMESTONENETWORKS,13,0.26
+TERASWITCH,13,0.26
+PACKET,13,0.26
+NL-811-40021,12,0.24
+Stark Industries Solutions Ltd,12,0.24
+CENTURYLINK-US-LEGACY-QWEST,12,0.24
+LATITUDE-SH,12,0.24
+FRONTIER-FRTR,11,0.22
+MEVSPACE sp. z o.o.,11,0.22
+"TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Al",11,0.22
+Servicos De Comunicacoes E Multimedia S.A.,10,0.2
+BHN-33363,10,0.2
+FORT-COLLINS-CONNEXION,10,0.2
+SK Broadband Co Ltd,10,0.2
+GOOGLE-FIBER,10,0.2
+FreeS,10,0.2
+KPN B.V.,10,0.2
+Bluewin,9,0.18
+Telia Company AB,9,0.18
+TWC-11427-TEXAS,9,0.18
+Singtel Fibre Broadband,9,0.18
+Orange,8,0.16
+Telstra Limited,8,0.16
+FPT Telecom Company,8,0.16
+Turk Telekom,8,0.16
+SMILESERV,8,0.16
+TWC-10796-MIDWEST,8,0.16
+British Telecommunications PLC,8,0.16
+TWC-11426-CAROLINAS,7,0.14
+Datacamp Limited,7,0.14
+TWC-11351-NORTHEAST,7,0.14
+AS-WHOLESAIL,7,0.14
+CABLEONE,6,0.12
+Inovare-Prim SRL,6,0.12
+SINGLEHOP-LLC,6,0.12
+CABLE-NET-1,6,0.12
+AS-SONICTELECOM,6,0.12
+Kyiv Optic Networks ltd,6,0.12
+AS-VULTR,6,0.12
+Aussie Broadband,6,0.12
+Emirates Telecommunications Group Company (etisalat Group) Pjsc,6,0.12
+"Tencent Building, Kejizhongyi Avenue",5,0.1
+TWC-12271-NYC,5,0.1
+Nessus GmbH,5,0.1
+Vodafone GmbH,5,0.1
+"Nos Comunicacoes, S.A.",5,0.1
+Community Fibre Limited,5,0.1
+WorldStream B.V.,5,0.1
+GOOGLE,5,0.1
+MICROSOFT-CORP-MSN-AS-BLOCK,5,0.1
+GRANDECOM-AS1,5,0.1
+JSC IOT,5,0.1
+IS-AS-1,5,0.1
+SPACEX-STARLINK,5,0.1
+Telia Norge AS,5,0.1
+Contabo Asia Private Limited,5,0.1
+Tele2 SWIPnet,5,0.1
+SERVERS-COM,5,0.1
+LG HelloVision,5,0.1
+Orange Polska Spolka Akcyjna,4,0.08
+Vodafone Libertel B.V.,4,0.08
+SIA Tet,4,0.08
+VIDEOTRON,4,0.08
+Superonline Iletisim Hizmetleri A.S.,4,0.08
+Exetel Pty Ltd,4,0.08
+WOW-INTERNET,4,0.08
+Belong Telstra Limited,4,0.08
+Scaleway S.a.s.,4,0.08
+UNINET,4,0.08
+TalkTalk,4,0.08
+Telenet BV,4,0.08
+ExaionSU,4,0.08
+"Telia Lietuva, AB",4,0.08
+Sunrise GmbH,4,0.08
+Digi Romania S.A.,4,0.08
+ROUTERHOSTING,4,0.08
+OZARKSGO,4,0.08
+Aquiss Limited,4,0.08
+Spartan Host Ltd,3,0.06
+Liberty Global B.V.,3,0.06
+Orange Espagne,3,0.06
+RELIABLESITE,3,0.06
+Superloop,3,0.06
+Telenor Norge AS,3,0.06
+Telekom Austria,3,0.06
+PJSC Moscow city telephone network,3,0.06
+GO p.l.c.,3,0.06
+TM TECHNOLOGY SERVICES SDN. BHD.,3,0.06
+M247 Europe SRL,3,0.06
+Telefonica De Espana S.a.u.,3,0.06
+Makedonski Telekom AD-Skopje,3,0.06
+Telecom Argentina S.A.,3,0.06
+Chinanet,3,0.06
+ASN-DIS,3,0.06
+1&1 Versatel Deutschland GmbH,3,0.06
+Voyager Internet,3,0.06
+Coolhousing s.r.o.,3,0.06
+VNPT Corp,3,0.06
+Pjsc tattelecom,3,0.06
+"Bharti Airtel, Telemedia Services",3,0.06
+CCI-TEXAS,3,0.06
+SUDDENLINK-COMMUNICATIONS,3,0.06
+ATLANTICBB-JOHNSTOWN,3,0.06
+Data Communication Business Group,3,0.06
+ASN-QUADRANET-GLOBAL,3,0.06
+JSC Selectel,3,0.06
+Intred S.p.A.,3,0.06
+One New Zealand Group Limited,2,0.04
+Xtra Telecom S.A.,2,0.04
+WEBNX,2,0.04
+Elisa Oyj,2,0.04
+PURtel.com GmbH,2,0.04
+uvensys GmbH,2,0.04
+Telemach Slovenija d.o.o.,2,0.04
+Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,2,0.04
+Vivacom Bulgaria EAD,2,0.04
+ANEXIA Internetdienstleistungs GmbH,2,0.04
+Hosting technology LTD,2,0.04
+UK-2 Limited,2,0.04
+TIM,2,0.04
+"T-2, d.o.o.",2,0.04
+MTL-19,2,0.04
+Hrvatski Telekom d.d.,2,0.04
+Triple T Broadband Public Company Limited,2,0.04
+"Slovak Telekom, a.s.",2,0.04
+IT7NET,2,0.04
+CTELCO,2,0.04
+Bahnhof AB,2,0.04
+Empresa Argentina de Soluciones Satelitales S.A.,2,0.04
+UAB Cherry Servers,2,0.04
+Three,2,0.04
+SkyNet,2,0.04
+PR-TELECOM ZRt.,2,0.04
+FUSE-NET,2,0.04
+UAB Rakrejus,2,0.04
+TEKSAVVY,2,0.04
+PVimpelCom,2,0.04
+No One Internet Ltd,2,0.04
+GORILLASERVERS,2,0.04
+EBOX,2,0.04
+T-Mobile Austria GmbH,2,0.04
+Vodafone Czech Republic a.s.,2,0.04
+TIER-NET,2,0.04
+Zen Internet Ltd,2,0.04
+Digi Spain Telecom S.l.,2,0.04
+AS-WAVE-1,2,0.04
+TDS-AS,2,0.04
+Vodafone Limited,2,0.04
+COOL-IDEAS,2,0.04
+"Campus, Hofnetz & Events GmbH",2,0.04
+Gwy It Pty Ltd,2,0.04
+Felix Gassan,2,0.04
+"Hangzhou Alibaba Advertising Co.,Ltd.",2,0.04
+Hyperoptic Ltd,2,0.04
+Netwise Hosting Ltd,2,0.04
+Spark New Zealand Trading,2,0.04
+COGECOWAVE,2,0.04
+Lyse Tele,2,0.04
+BEANFIELD,2,0.04
+MobileOne MobileInternet Service Provider Singapore,2,0.04
+LEVEL3,2,0.04
+Glattwerk,2,0.04
+TPG Telecom Limited,2,0.04
+HUAWEI CLOUDS,2,0.04
+TimeWeb,2,0.04
+Blockchain Creek B.V.,2,0.04
+Interhost Communication Solutions,1,0.02
+Tiscali SpA,1,0.02
+Pernik Lan,1,0.02
+Serv.host Group Ltd,1,0.02
+Emirates Integrated Telecommunications Company PJSC,1,0.02
+POST Luxembourg,1,0.02
+ESSENSYS (UK),1,0.02
+Vodafone Italia S.p.A.,1,0.02
+NULLEDLLC,1,0.02
+RCN-AS,1,0.02
+Vocus Retail,1,0.02
+Cable & Wireless Panama,1,0.02
+DATAWAGON,1,0.02
+Open Fiber S.P.A.,1,0.02
+Servers Tech Fzco,1,0.02
+DpkgSoft International Limited,1,0.02
+velia.net Internetdienste GmbH,1,0.02
+SWITCH,1,0.02
+Telefonica Germany,1,0.02
+Telecel S.A.,1,0.02
+Medianet Invest Ae,1,0.02
+UAB Interneto vizija,1,0.02
+JOESDATACENTER,1,0.02
+ASN-FLEXENTIAL,1,0.02
+FIDN,1,0.02
+NForce Entertainment B.V.,1,0.02
+DNS:NET Internet Service GmbH,1,0.02
+Magyar Telekom plc.,1,0.02
+Media-Com Sp. z o.o.,1,0.02
+T-Mobile Czech Republic a.s.,1,0.02
+Hi3G Access AB,1,0.02
+Amforc,1,0.02
+RJ Network OU,1,0.02
+AS17378,1,0.02
+CelesteS,1,0.02
+MVPS LTD,1,0.02
+ALTIMA-TORONTO,1,0.02
+GIGSOUTH,1,0.02
+TELEFONICA CHILE S.A.,1,0.02
+Hringdu ehf,1,0.02
+PEG-SV,1,0.02
+OTEnet S\.A\.,1,0.02
+Intersvyaz-2 JSC,1,0.02
+HONORABLE CAMARA DE DIPUTADOS DE LA NACION,1,0.02
+Information and Communication Technologies,1,0.02
+Chongqing Telecom,1,0.02
+Amuri Net,1,0.02
+Virtual Systems,1,0.02
+Gigahost AS,1,0.02
+Joint Stock Company TransTeleCom,1,0.02
+MEDIACOM-ENTERPRISE-BUSINESS,1,0.02
+Cellcom Fixed Line Communication L.P,1,0.02
+EGIHOSTING,1,0.02
+AS-COLOCROSSING,1,0.02
+DELTA Fiber Nederland B.V.,1,0.02
+GSL Networks Pty LTD,1,0.02
+Jordan Data Communications Company,1,0.02
+Microplex PTY LTD,1,0.02
+HURRICANE,1,0.02
+Orion Blazej Hess,1,0.02
+Vodafone-panafon Hellenic Telecommunications Company,1,0.02
+Andrews & Arnold Ltd,1,0.02
+Airband Community Internet Ltd,1,0.02
+ACS-INTERNET,1,0.02
+KUB-FIBER-01,1,0.02
+Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,1,0.02
+AVATIVE-FIBER,1,0.02
+Arcade Solutions,1,0.02
+BRSPD-PUBLIC,1,0.02
+Melita Limited,1,0.02
+"Telekom Slovenije, d.d.",1,0.02
+TELEKOM SRBIJA a.d.,1,0.02
+CETIN Belgrade,1,0.02
+OOO Istranet,1,0.02
+HOSTKEY-USA,1,0.02
+Netia,1,0.02
+Yarnet Ltd,1,0.02
+Hathway IP Over Cable Internet,1,0.02
+Netoip.com srl,1,0.02
+Rannsokna- og haskolanet Islands hf.,1,0.02
+China Telecom Global Limited,1,0.02
+connecta ag,1,0.02
+Mobile Telecommunications Company,1,0.02
+Scloud Pte Ltd,1,0.02
+CJSC Telecommunications 21,1,0.02
+Sognenett AS,1,0.02
+Freedom Internet BV,1,0.02
+China Unicom Beijing Province Network,1,0.02
+Bouygues Telecom,1,0.02
+Afrihost,1,0.02
+INDOSAT Internet Network Provider,1,0.02
+CD-Telematika a.s.,1,0.02
+Trans Ocean Network,1,0.02
+COGENT-174,1,0.02
+Republican Unitary Telecommunication Enterprise Beltelecom,1,0.02
+SERVER-MANIA,1,0.02
+Huawei Cloud Service data center,1,0.02
+TDC Holding A/S,1,0.02
+Daisy Corporate Services Trading Ltd,1,0.02
+Host Universal Pty Ltd,1,0.02
+TurkNet Iletisim Hizmetleri A.S.,1,0.02
+LeaseWeb Netherlands B.V.,1,0.02
+WEBPASS,1,0.02
+MyRepublic,1,0.02
+CELLCO-PART,1,0.02
+netplus.ch,1,0.02
+CANBYTELEPHONEASSOCIATION,1,0.02
+Teleseti Ltd,1,0.02
+Tube-Hosting,1,0.02
+Magdalena Maria Jaskowska,1,0.02
+"Comunicaciones Metropolitanas METROCOM, S.A.",1,0.02
+CLEMSONU,1,0.02
+Groupe LWSRL,1,0.02
+Telemach Hrvatska d.o.o.,1,0.02
+UCLOUD INFORMATION TECHNOLOGY HK LIMITED,1,0.02
+Vodafone Portugal - Communicacoes Pessoais S.A.,1,0.02
+MIDCO-NET,1,0.02
+BAM,1,0.02
+green.ch,1,0.02
+Eir Broadband,1,0.02
+DEDICATED,1,0.02
+"China Mobile Communications Group Co.,",1,0.02
+Datapark,1,0.02
+ICONZ Ltd,1,0.02
+Viewqwest Pte Ltd,1,0.02
+TOTAL PLAY TELECOMUNICACIONES DE CV,1,0.02
+Fornex Hosting S.L.,1,0.02
+"XENYA inzeniring, proizvodnja in trgovina, d.o.o. Ljubljana",1,0.02
+ALTIMA-TELECOM,1,0.02
+UAB Balticum TV,1,0.02
+MTS-ASN,1,0.02
+DLIVE,1,0.02
+CORESITE,1,0.02
+LEASEWEB-USA-WDC,1,0.02
+Tele Columbus,1,0.02
+MONKEYBRAINS,1,0.02
+NEXICOM,1,0.02
+Nova Telecommunications & Media Single Member S.A,1,0.02
+Netwerkvereniging Coloclue,1,0.02
+CC-3272,1,0.02
+Leaseweb UK Limited,1,0.02
+MULTIB-40788,1,0.02
+Rostelecom,1,0.02
+CABASE Camara Arg de Base de Datos y Serv en Linea,1,0.02
+Vectra S.A.,1,0.02
+Inter-Telecom,1,0.02
+Play,1,0.02
+wilhelm.tel GmbH,1,0.02
+HIVE-DATA-CENTER,1,0.02
+Norlys Digital A/S,1,0.02
+WT-AS1,1,0.02
+Maximum-Net,1,0.02
+BBO-1,1,0.02
+DNA Oyj,1,0.02
+IW-ASN-11071,1,0.02
+Telia Finland Oyj,1,0.02
+Sky Italia srl,1,0.02
+01node Funding Srl,1,0.02
+BT Communications Ireland Limited,1,0.02
+Latitude.sh LTDA,1,0.02
+USINTERNET,1,0.02
+CITY-WIDE-COMMUNICATIONS,1,0.02
+conova communications GmbH,1,0.02
+AS-GLOBALTELEHOST,1,0.02
+"xTom Japan Co.,",1,0.02
+BIGLOBE,1,0.02
+NLB-ASN,1,0.02
+HVC-AS,1,0.02
+AS-CMN,1,0.02
+LCPRL,1,0.02
+"Andorra Telecom, S.a.u.",1,0.02
+Vodafone Spain,1,0.02
+Net at Once Sweden AB,1,0.02
+China Telecom Group,1,0.02
+EPBTELECOM,1,0.02
+CA-1546-ASN-1,1,0.02
+"A1 Slovenija telekomunikacijske storitve,d.d.",1,0.02
